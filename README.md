@@ -36,3 +36,4 @@ Use the ⋯ menu in the panel header: Export presets saves a .json file; Import 
 - The number of orders Schwab allows on one ticket is unknown. The extension stops and tells you if "+ Add Order" disappears.
 - Dollar-amount (fractional) orders are available only for symbols Schwab supports.
 
+Code written with AI assistance (Claude Code).
